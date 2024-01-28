@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Gabarito:wght@400&display=swap');
+*{
+	
+	text-decoration: none;
+
+}
+
+
+body{
+    background-color: #0067EB;
+	background-image: url('fundo.jpg');
+	background-size:cover;
+	background-repeat: no-repeat;
+	background-position:center center;
+	background-attachment: scroll;
+
+}
+
+
+
+.img{
+	position: relative;
+    left: 110px;
+    width: 900px;
+    height: 400px;
+}
+
+#menu{
+	width: 860px;
+	background-color: #0067EB;
+	margin-top: -5px;
+	padding: 20px;	
+	margin-left: auto;
+    margin-right: auto;
+
+}
+
+a{
+    font-family: Gabarito;
+    margin-top: -20px;
+	width: 900px;
+	background-color: #0067EB;
+	text-align: center;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+a:link{
+    color: #ffffff;
+}
+
+a:visited{
+	color: #ffffff;
+}
+
+a:hover{
+	color: 	rgb(255, 255, 255);
+}
+
+#conteudo{
+    font-family: Gabarito;
+	margin-top: -20px;
+	width: 900px;
+	background-color: #0067EB;
+	text-align: center;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+p{
+    font-family: Gabarito;
+    color:#ffffff;
+}
+
+h2{
+	color: #ffffff;
+
+}
+.centralizar{
+	text-align: center;
+}
+
+h4{
+    font-family: Gabarito;
+    text-align: center;
+}
+
+img{
+    border-radius: 10%;
+	border: #000000;
+}
+
+li{
+    color: #ffffff;
+}
+
+h1{
+	color: #ffffff;
+}
+
